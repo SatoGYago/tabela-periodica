@@ -1,0 +1,96 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.elemento
+{
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.elemento h1
+{
+    font-size: 3em;
+    margin: 0;
+    margin-left: 10px;
+}
+.elemento p
+{
+    margin: 0;
+    font-size: 1em;
+    margin-left: 10px;
+}
+#titulo
+{
+    text-align: center;
+}
+#H
+{
+    background-color: rgb(138, 163, 243);
+}
+
+#Gn
+{
+    background-color: rgb(56, 4, 4);
+}
+
+#Ma
+{
+    background-color: rgb(145, 2, 2);
+}
+#Mat
+{
+    background-color: rgb(248, 65, 65);
+}
+#nmd
+{
+    background-color: rgb(236, 115, 71);
+}
+#nmp
+{
+    background-color: green;
+}
+#sm
+{
+    background-color: rgb(230, 169, 40);
+}
+#mpt
+{
+    background-color: rgb(6, 163, 90);
+}
+#mdt
+{
+    background-color: rgb(85, 4, 161);
+}
+#la
+{
+    background-color: rgb(32, 32, 165);
+}
+#t1
+{
+    margin-bottom: 50px;
+}
+#ac
+{
+    background-color: rgb(211, 15, 64);
+}
+
+#pqd
+{
+    background-color: rgb(49, 48, 48);
+}
+
+#t2
+{
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.legenda
+{
+    margin: 3px;
+    padding: 2px 10px;
+    border-radius: 10px;
+    color: white;
+}
